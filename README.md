@@ -92,8 +92,4 @@ TruthSeeker/
 * Advanced visualization dashboards
 * API integration with social platforms
 
-## 👩‍💻 Author
 
-**Akshaya Yellumula**
-
-⭐ If you find this project useful, consider giving it a star and contributing to its development.
