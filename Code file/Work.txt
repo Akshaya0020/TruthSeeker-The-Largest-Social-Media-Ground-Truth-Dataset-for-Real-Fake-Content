@@ -1,0 +1,16 @@
+Truthseeker The largest social media Ground Truth Dataset for Real or Fake content 
+
+IEEE Transactions on Computational Social Systems,Volume:11,Issue:3,Issue Date:June.2024
+
+
+truthseeker
+
+
+Message
+------
+
+Pid	
+title	
+post	
+posttype
+hc
